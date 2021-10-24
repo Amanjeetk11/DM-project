@@ -11,9 +11,9 @@
 |   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
 |    IIB2019006  |   Amanjeet Kumar |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
-|    IIB2019239  |  Debasish Das | Unstable108](https://github.com/Unstable108) |
-|    IIB2019222  |   Rauank Singh Rathore  | [Error404r ](https://github.com/Error404r) |
-|    IIB2019202  |   JYOTI VERMA | [Jyo123-verma ](https://github.com/Jyo123-verma) |
+|    IIB2019031 |  Debasish Das | [unstable108](https://github.com/Unstable108) |
+|    IIB2019038  |  Shourya S | [lazyp4nd4 ](https://github.com/lazyp4nd4) |
+|    IIB2019039 | suhaib Khan    | [appleear ](https://github.com/appleear) |
 
 - <b>Website link :</b>[Click here🎉](http://pluto-update.epizy.com/Pluto-Update-master/index.html)
 
