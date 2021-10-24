@@ -1,6 +1,10 @@
 <h1 align='center'>Online Shopping Store</h1>
 
-- An Ecommerce website designed in HTML, CSS and PHP.
+## DM PROJECT | 
+Group No- 08
+
+
+
 
 ## About the Website
 
@@ -26,7 +30,7 @@
   <li>MySQL</li>
 </ul>
 
-- <b>Login Details: </b> 
+ <b>Login Details for admin: </b> 
 - Username: Ana 
 - Password: 786 
 
