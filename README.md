@@ -1,6 +1,6 @@
 <h1 align='center'>Online Shopping Store</h1>
 
-## DM PROJECT | 
+## DM PROJECT 
 Group No- 08
 
 
