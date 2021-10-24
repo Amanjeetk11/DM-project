@@ -1,0 +1,227 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+	scroll-behavior: smooth;
+}
+
+body {
+	overflow-x: hidden;
+	color:rgba(0,0,0,0.8);
+	background-color: #fff;
+	font-family: 'Poppins', sans-serif;
+	margin:0;
+	display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/*---------------------------------------NAV-BAR----------------------------------------------*/
+
+.navbar-brand{
+	font-size: 2.2rem;
+}
+.nav-item a{
+	font-size: 1.8rem;
+}
+
+.kol{
+	padding: 1.5rem;
+	font-size: 2.2rem;
+}
+.kol img{
+	width: 12rem;
+}
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: white;
+	position: fixed;
+	width: 100vw;
+	padding: 1.2rem;
+	z-index: 10000;
+}
+nav .logo{
+	padding-left: 36rem;
+}
+.navbar{
+	position: fixed;
+}
+.log{
+	color: white;
+}
+.log:hover{
+	color: white;
+}
+
+/*---------------------------------------------- second-nav -----------------------------------------------*/
+
+.second-nav{
+	width: 100%;
+	height: 10rem;
+	background-color: rgb(255, 76, 48);
+	color: white;
+}
+.second-nav h3{
+	padding: 7rem;
+	padding-left: 15rem;
+}
+.second-nav a{
+	color: white;
+	text-decoration: none;
+	padding: 0 1rem;
+}
+
+/*--------------------------------------------------red store----------------------------------------------*/
+
+.text {
+	display: flex;
+	flex-direction: column;
+	font-size: 1.7rem;
+	color:#555;
+	padding: 0 20rem;
+	padding-top: 50px;
+	font-family:Arial, Helventica, sans-serif;
+	font-weight: lighter;
+	word-spacing: .18rem;
+	letter-spacing: .07rem;
+	line-height: 3rem;
+}
+
+.text h1 {
+	font-family: 'Vollkorn', serif;
+	color: black;
+	font-size: 5rem;
+	text-decoration: italic;
+	padding: 5rem 0;
+}
+
+.text p a {
+	text-decoration: none;
+	color: rgb(255, 76, 48);
+}
+
+.text .red {
+	background-color: white;
+	padding: 3rem 5rem 5rem 5rem;
+	border-radius: 7px;
+	box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+	margin-bottom: 15rem;
+}
+
+.red h1 {
+	font-family: 'Vollkorn', serif;
+	color: black;
+	font-size: 5rem;
+	text-decoration: italic;
+	padding: 3rem 0;
+}
+.line{
+	width: 70%;
+	height: 3px;
+	background-color: rgb(255, 76, 48);
+	transform: translate(21%,-20%);
+}
+
+/*-----------------------------testimonial--------------------------------*/
+
+.testimonial{
+	padding-top: 3rem;
+	margin-left: 22rem;
+}
+.testimonial .col-3{
+	text-align: center;
+	padding: 6rem 2rem;
+	box-shadow: 0 0 20px 0px rgba(0,0,0,0.1);
+	cursor: pointer;
+	transition: transform 0.5s;
+	margin-left: 2rem;
+}
+.testimonial .col-3 img{
+	width: 50px;
+	margin-top: 2rem;
+	border-radius: 50%;
+}
+.testimonial .col-3:hover{
+	transform: translateY(-10px);
+}
+.testimonial .col-3 p{
+	font-size: 1.1rem;
+	margin: 1.2rem 0;
+	color: #777;
+}
+.testimonial .col-3 h3{
+	padding-top: 1rem;
+}
+.fa.fa-quote-left{
+	font-size: 2rem;
+	color: #ff523b;
+}
+
+/*-------------------------------brands------------------------------------*/
+
+.brands{
+	margin: 10rem auto;
+}
+.col-5{
+	width: 16rem;
+	margin: 2rem;
+}
+.col-5 img{
+	width: 100%;
+	cursor: pointer;
+	filter: grayscale(100%);
+}
+.col-5 img:hover{
+	filter: grayscale(0);
+}
+
+/*------------------------------------footer-------------------------------*/
+
+.footer{
+	background: #000;
+	color: #8a8a8a;
+	font-size: 1.4rem;
+	padding: 6rem 2rem;
+}
+.footer p{
+	color: #8a8a8a;
+}
+.footer h3{
+	color: #fff;
+	margin-bottom: 2rem;
+}
+
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+	min-width: 25rem;
+	margin-bottom: 2rem;
+}
+.footer-col-2{
+	flex:1;
+	text-align: left;
+}
+.footer-col-2 img{
+	width: 18rem;
+	margin-bottom: 2rem;
+}
+.footer-col-3, .footer-col-4{
+	flex-basis: 12%;
+	text-align: center;s
+}
+ul{
+	list-style-type: none;
+}
+.footer hr{
+	border: none;
+	background: #b5b5b5;
+	height: 2px;
+	margin: 2rem 0;
+}
+.copyright{
+	text-align: center;
+}
