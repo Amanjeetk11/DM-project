@@ -5,7 +5,7 @@
 ## About the Website
 
  - A Realtime Customer-Seller intraction ecommerce website that make it possible to create a virtual shopping environment for users such as Amazon.com.
-- <b>Language and Technology: </b> PHP, HTML, CSS, JS & MySQL
+- <b>Website link :</b>[Click here🎉](http://pluto-update.epizy.com/Pluto-Update-master/index.html)
 
 ## Team Members
 |   Enrollment No.  |   Name   | Github ID |
@@ -15,7 +15,16 @@
 |    IIB2019038  |  Shourya S | [lazyp4nd4 ](https://github.com/lazyp4nd4) |
 |    IIB2019039 | suhaib Khan    | [appleear ](https://github.com/appleear) |
 
-- <b>Website link :</b>[Click here🎉](http://pluto-update.epizy.com/Pluto-Update-master/index.html)
+
+## Built With
+<ul>
+   <li>php</li>
+   <li>IoT</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>MySQL</li>
+</ul>
 
 - <b>Login Details: </b> 
 - Username: Ana 
