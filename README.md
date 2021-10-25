@@ -23,7 +23,6 @@ Group No- 08
 ## Built With
 <ul>
    <li>php</li>
-   <li>IoT</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
